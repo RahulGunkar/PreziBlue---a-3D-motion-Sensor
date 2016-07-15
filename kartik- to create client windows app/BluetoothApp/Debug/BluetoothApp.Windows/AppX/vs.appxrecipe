@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KARTIK</Machine>
+    <WindowsUser>Kartik Nighania</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>32029fc9-999c-4a55-a960-1767d8617908</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.Windows\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F7BC343C573CCEA87C3028023D1E6CA1441FB587E0D445EF09C8BE1D71457497</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32029fc9-999c-4a55-a960-1767d8617908_1.0.0.0_x86__f48s4tk72xpc6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32029fc9-999c-4a55-a960-1767d8617908_f48s4tk72xpc6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32029fc9-999c-4a55-a960-1767d8617908</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kartik Nighania</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-15T22:45:03.467</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\BluetoothApp.Windows.exe">
+      <PackagePath>BluetoothApp.Windows.exe</PackagePath>
+      <Modified>2016-07-15T22:45:00.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\BluetoothApp.winmd">
+      <PackagePath>BluetoothApp.winmd</PackagePath>
+      <Modified>2016-07-15T22:44:56.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-15T22:44:58.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-15T22:44:58.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\Debug\BluetoothApp.Windows\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-15T22:45:01.983</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\Kartik Nighania\Documents\GitHub\PreziBlue---a-3D-motion-Sensor\kartik- to create client windows app\BluetoothApp\BluetoothApp\BluetoothApp.WindowsPhone\BluetoothApp.WindowsPhone.vcxproj;x86
